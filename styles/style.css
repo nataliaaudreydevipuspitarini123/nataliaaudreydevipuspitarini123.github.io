@@ -1,0 +1,22 @@
+/*start body*/
+body {
+   color:plum;
+   background-color:yellow;
+   font-family: Helvetica,arial,sans-serif;
+   font-size:16px;
+   line-height:1.5em;
+   margin: 0;
+   padding:0;
+    }
+/*end body*/
+
+/* start debug*/
+    .bg-blue {
+    background-color: yellowgreen
+   }
+    
+   .bg-red{
+      background-color:red
+   }
+   /* end debug*/
+
